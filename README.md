@@ -2,7 +2,7 @@
 #### MERN Stack Developer, Frontend Developer
 ![MERN Stack Developer, Frontend Developer](https://i.postimg.cc/NFzFH0Jy/1691605198378.jpg)
 
-I enjoy creating web applications and exploring new technologies to enhance my skills.
+I enjoy creating web applications and exploring new technologies to enhance my skills. I have a passion for MERN stack development and I am proficient in JavaScript. I am dedicated to delivering high-quality and innovative solutions to meet the needs of clients and users. I am committed to continuous learning and staying updated with the latest trends and advancements in the field of web development.
 
 Skills: HTML, CSS, Tailwind CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, TypeScript, Mongoose, Redux, Next.js, Framer Motion, Tanstack Query, Firebase authentication, NextAuth, GitHub, Bootstrap, and Shards UI
 
